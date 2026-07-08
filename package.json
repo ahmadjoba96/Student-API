@@ -1,0 +1,24 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "A lightweight REST API built with **Node.js** and **Express** as a practical task for the **AHL Logics** internship (Backend Session 1).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadjoba96/Student-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ahmadjoba96/Student-API/issues"
+  },
+  "homepage": "https://github.com/ahmadjoba96/Student-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
